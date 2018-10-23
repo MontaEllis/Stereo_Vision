@@ -1,0 +1,20 @@
+Intrinsic parameters of left camera:
+
+Focal Length:          fc_left = [ 408.74870   408.90549 ] ? [ 4.71706   4.78935 ]
+Principal point:       cc_left = [ 157.13605   119.50782 ] ? [ 3.94526   4.64353 ]
+Skew:             alpha_c_left = [ 0.00000 ] ? [ 0.00000  ]   => angle of pixel axes = 90.00000 ? 0.00000 degrees
+Distortion:            kc_left = [ -0.36491   0.00182   0.00331   -0.00080  0.00000 ] ? [ 0.03136   0.16061   0.00171   0.00272  0.00000 ]
+
+
+Intrinsic parameters of right camera:
+
+Focal Length:          fc_right = [ 400.19771   400.46567 ] ? [ 4.86960   4.89364 ]
+Principal point:       cc_right = [ 147.69264   101.55715 ] ? [ 4.10383   4.82499 ]
+Skew:             alpha_c_right = [ 0.00000 ] ? [ 0.00000  ]   => angle of pixel axes = 90.00000 ? 0.00000 degrees
+Distortion:            kc_right = [ -0.36531   0.08399   0.00362   0.00456  0.00000 ] ? [ 0.02950   0.15052   0.00209   0.00258  0.00000 ]
+
+
+Extrinsic parameters (position of right camera wrt left camera):
+
+Rotation vector:             om = [ -0.04235   0.00127  -0.00054 ]
+Translation vector:           T = [ -167.03475   -0.32197  -3.69357 ]

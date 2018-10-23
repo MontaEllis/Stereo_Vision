@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/10/13 21:25:55。
+     1>项目“C:\code\vs\opencv\20180904双目摄像头(已硬件匹配)【整理版】sgbm\20180729双目初探\20180729双目初探.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\VisualStudio2013\VC\bin\CL.exe /c /IC:\eigen3 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\code\vs\opencv\20180904双目摄像头(已硬件匹配)【整理版】sgbm\20180729双目初探\main.cpp(347): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\code\vs\opencv\20180904双目摄像头(已硬件匹配)【整理版】sgbm\20180729双目初探\main.cpp(473): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+       Link:
+         C:\VisualStudio2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\code\vs\opencv\20180904双目摄像头(已硬件匹配)【整理版】sgbm\Debug\20180729双目初探.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Opencv\opencv\build\x86\vc12\staticlib opencv_ts310d.lib opencv_world310d.lib opencv_aruco310d.lib opencv_bgsegm310d.lib opencv_bioinspired310d.lib opencv_calib3d310d.lib opencv_ccalib310d.lib opencv_core310d.lib opencv_datasets310d.lib opencv_dnn310d.lib opencv_dpm310d.lib opencv_face310d.lib opencv_features2d310d.lib opencv_flann310d.lib opencv_fuzzy310d.lib opencv_highgui310d.lib opencv_imgcodecs310d.lib opencv_imgproc310d.lib opencv_line_descriptor310d.lib opencv_ml310d.lib opencv_objdetect310d.lib opencv_optflow310d.lib opencv_photo310d.lib opencv_plot310d.lib opencv_reg310d.lib opencv_rgbd310d.lib opencv_saliency310d.lib opencv_shape310d.lib opencv_stereo310d.lib opencv_stitching310d.lib opencv_structured_light310d.lib opencv_superres310d.lib opencv_surface_matching310d.lib opencv_text310d.lib opencv_tracking310d.lib opencv_video310d.lib opencv_videoio310d.lib opencv_videostab310d.lib opencv_xfeatures2d310d.lib opencv_ximgproc310d.lib opencv_xobjdetect310d.lib opencv_xphoto310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\code\vs\opencv\20180904双目摄像头(已硬件匹配)【整理版】sgbm\Debug\20180729双目初探.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\code\vs\opencv\20180904双目摄像头(已硬件匹配)【整理版】sgbm\Debug\20180729双目初探.lib" /MACHINE:X86 Debug\main.obj
+         20180729双目初探.vcxproj -> C:\code\vs\opencv\20180904双目摄像头(已硬件匹配)【整理版】sgbm\Debug\20180729双目初探.exe
+     1>已完成生成项目“C:\code\vs\opencv\20180904双目摄像头(已硬件匹配)【整理版】sgbm\20180729双目初探\20180729双目初探.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.88
